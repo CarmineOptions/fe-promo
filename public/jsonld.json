@@ -1,0 +1,7 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "Organization",
+  "name": "Carmine Options AMM",
+  "url": "https://carmime.finance",
+  "description": "Automated Market Maker enabling anyone to buy and sell options at a fair price"
+}

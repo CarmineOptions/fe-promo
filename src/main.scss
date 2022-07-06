@@ -1,0 +1,18 @@
+$carmine: #960018;
+$cstm-col1: #003f5c;
+$cstm-col2: #444e86;
+$cstm-col3: #955196;
+$cstm-col4: #dd5182;
+$cstm-col5: #ff6e54;
+$cstm-col6: #ffa600;
+
+$primary: #dd5182;
+$dark: #003f5c;
+
+$custom-colors: (
+  "primary": $primary,
+  "dark": $dark,
+);
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+// Merge the maps
+$theme-colors: map-merge($theme-colors, $custom-colors);
