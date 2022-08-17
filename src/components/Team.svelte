@@ -17,5 +17,4 @@
       />
     {/each}
   </div>
-  <a href="https://www.freepik.com/vectors/career-jobs">Career jobs vector created by studiogstock - www.freepik.com</a>
 </div>
