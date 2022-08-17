@@ -20,6 +20,13 @@ export const team = [
       "Curious Python backend developer with a passion for DeFi. Dabbling in the space since 2019, I have experience with blockchain development and analysis.",
     imageSrc: "james-bond.webp",
   },
+  {
+    name: "Andrej Chepelau",
+    role: "SC developer & Quant",
+    description:
+      "Financial engineer and python developer, working in crypto with focus on derivatives and all things quant. Previously worked at ChainKeepers.",
+    imageSrc: "james-bond.webp",
+  },
 ];
 
 export const faqs = [
