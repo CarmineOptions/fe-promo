@@ -3,6 +3,7 @@
   import Twitter from "./Social/Twitter.svelte";
   import Github from "./Social/Github.svelte";
   import Discord from "./Social/Discord.svelte";
+  import NewWindow from "./Social/NewWindow.svelte";
 </script>
 
 <nav
@@ -38,6 +39,12 @@
         <a class="nav-link" href="#timeline">Timeline</a>
         <a class="nav-link" href="#team">Team</a>
         <a class="nav-link" href="#faq">FAQ</a>
+        <a
+          class="nav-link"
+          target="_blank"
+          href="https://carmine-finance.gitbook.io/carmine-options-amm/"
+          ><span>Docs&nbsp;<NewWindow /></span></a
+        >
         <hr class="dropdown-divider" />
         <div class="nav-item dropdown">
           <a
