@@ -12,21 +12,14 @@
         <div class="timeline">
           <div class="timeline-content">
             <div class="timeline-year">Apr<br />2022</div>
+            <h3 class="title">Project Started</h3>
+            <p class="description" />
+          </div>
+        </div>
+        <div class="timeline">
+          <div class="timeline-content">
+            <div class="timeline-year" style="right: -58px;">May-Sep<br />2022</div>
             <h3 class="title">Raising Capital</h3>
-            <p class="description" />
-          </div>
-        </div>
-        <div class="timeline">
-          <div class="timeline-content">
-            <div class="timeline-year">May<br />2022</div>
-            <h3 class="title">Capital Raised</h3>
-            <p class="description" />
-          </div>
-        </div>
-        <div class="timeline">
-          <div class="timeline-content">
-            <div class="timeline-year">Jul<br />2022</div>
-            <h3 class="title">Team of 6</h3>
             <p class="description" />
           </div>
         </div>
@@ -39,15 +32,36 @@
         </div>
         <div class="timeline">
           <div class="timeline-content">
-            <div class="timeline-year">Jan<br />2023</div>
+            <div class="timeline-year">Oct<br />2022</div>
+            <h3 class="title">Team of 6</h3>
+            <p class="description" />
+          </div>
+        </div>
+        <div class="timeline">
+          <div class="timeline-content">
+            <div class="timeline-year">Dec<br />2022</div>
             <h3 class="title">Beta</h3>
             <p class="description" />
           </div>
         </div>
         <div class="timeline">
           <div class="timeline-content">
+            <div class="timeline-year">Q1<br />2023</div>
+            <h3 class="title">Options for NFTs and game commodity portfolios</h3>
+            <p class="description" />
+          </div>
+        </div>
+        <div class="timeline">
+          <div class="timeline-content">
             <div class="timeline-year">Mar<br />2023</div>
-            <h3 class="title">Audit Finished</h3>
+            <h3 class="title">ML Based Fees for Options</h3>
+            <p class="description" />
+          </div>
+        </div>
+        <div class="timeline">
+          <div class="timeline-content">
+            <div class="timeline-year">Mar<br />2023</div>
+            <h3 class="title">Simple Leverage</h3>
             <p class="description" />
           </div>
         </div>
