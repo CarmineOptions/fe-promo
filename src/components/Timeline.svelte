@@ -18,7 +18,9 @@
         </div>
         <div class="timeline">
           <div class="timeline-content">
-            <div class="timeline-year" style="right: -58px;">May-Sep<br />2022</div>
+            <div class="timeline-year" style="right: -58px;">
+              May-Sep<br />2022
+            </div>
             <h3 class="title">Raising Capital</h3>
             <p class="description" />
           </div>
@@ -26,14 +28,21 @@
         <div class="timeline">
           <div class="timeline-content">
             <div class="timeline-year">Oct<br />2022</div>
-            <h3 class="title">Alpha</h3>
+            <h3 class="title">Alpha testnet smart contracts</h3>
             <p class="description" />
           </div>
         </div>
         <div class="timeline">
           <div class="timeline-content">
             <div class="timeline-year">Oct<br />2022</div>
-            <h3 class="title">Team of 6</h3>
+            <h3 class="title">Team of 5</h3>
+            <p class="description" />
+          </div>
+        </div>
+        <div class="timeline">
+          <div class="timeline-content">
+            <div class="timeline-year">Nov<br />2022</div>
+            <h3 class="title">Alpha FE running</h3>
             <p class="description" />
           </div>
         </div>
@@ -47,7 +56,9 @@
         <div class="timeline">
           <div class="timeline-content">
             <div class="timeline-year">Q1<br />2023</div>
-            <h3 class="title">Options for NFTs and game commodity portfolios</h3>
+            <h3 class="title">
+              Options for NFTs and game commodity portfolios
+            </h3>
             <p class="description" />
           </div>
         </div>
