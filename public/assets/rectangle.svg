@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="579" height="644" viewBox="0 0 579 644">
+  <defs>
+    <filter id="Rectangle_48" x="0" y="0" width="579" height="644" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#fa0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_48)">
+    <g id="Rectangle_48-2" data-name="Rectangle 48" transform="translate(30 29)" fill="#060623" stroke="#ffb000" stroke-width="0.5">
+      <rect width="519" height="584" rx="20" stroke="none"/>
+      <rect x="0.25" y="0.25" width="518.5" height="583.5" rx="19.75" fill="none"/>
+    </g>
+  </g>
+</svg>
