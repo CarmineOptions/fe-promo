@@ -79,11 +79,11 @@ section {
   justify-content: space-evenly;
 }
 
-section#hero .flex-container > div:first-child {
+#hero .flex-container > div:first-child {
   padding-right: 5rem;
 }
 
-section#hero .flex-container:last-child {
+#hero .flex-container:last-child {
   padding-left: 5rem;
 }
 
@@ -92,12 +92,12 @@ section#hero .flex-container:last-child {
   height: auto;
 }
 
-section#hero h1 {
+#hero h1 {
   font-size: 2.66rem;
   color: var(--primary);
 }
 
-section#hero p {
+#hero p {
   font-size: 2rem;
 }
 
@@ -149,26 +149,26 @@ section#traders .flex-container div.box {
   opacity: 1;
 }
 
-section#traders div.box > .box-icon {
+#traders div.box > .box-icon {
   height: 3.375rem;
   margin-top: 2.542rem;
 }
-section#traders div.box > .box-icon > img {
+#traders div.box > .box-icon > img {
   height: 100%;
 }
-section#traders div.box > .box-title {
+#traders div.box > .box-title {
   font-size: 1.333rem;
   color: var(--primary);
   margin: 1.333rem 0;
 }
-section#traders div.box > .box-text {
+#traders div.box > .box-text {
   margin: 0 1.875rem;
 }
 
 section img {
   width: 100%;
 }
-section#problems-solutions {
+#problems-solutions {
   font-size: 1.333rem;
 }
 
@@ -229,12 +229,14 @@ section#problems-solutions {
   display: flex;
   flex-flow: column;
   justify-content: center;
+  align-items: center;
 }
 .card-grid .desc {
   grid-column-start: col1;
   grid-column-end: colend;
   grid-row-start: row2;
   grid-row-end: rowend;
+  padding: 0 1.5rem;
 }
 .card-grid .pic .img-wrapper {
   box-sizing: border-box;
@@ -250,9 +252,6 @@ section#problems-solutions {
   padding: 1.5rem;
 }
 
-.card-grid .desc {
-  padding: 0 1.5rem;
-}
 .card-grid .position .name {
   font-weight: 700;
   font-size: 2rem;
@@ -410,6 +409,28 @@ footer > p {
   }
   #problems-solutions > div:nth-child(3) > div:nth-child(2) {
     padding-left: 0 !important;
+  }
+
+  .card {
+    width: 95% !important;
+  }
+  .card-grid {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+  }
+  .card-grid .pic {
+    width: 60%;
+  }
+  .card-grid .position {
+    padding: 1.5rem 0;
+  }
+  .card-grid .desc {
+    grid-column-start: col1;
+    grid-column-end: colend;
+    grid-row-start: row2;
+    grid-row-end: rowend;
+    padding: 0 1.5rem;
   }
 
   .footer-grid {
