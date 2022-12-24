@@ -411,6 +411,10 @@ footer > p {
     padding-left: 0 !important;
   }
 
+  #career > div:nth-child(2) > div:nth-child(2) {
+    display: none;
+  }
+
   .card {
     width: 95% !important;
   }
