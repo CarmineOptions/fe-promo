@@ -79,6 +79,27 @@ section {
   justify-content: space-evenly;
 }
 
+#vision h2 {
+  font-size: calc(30px + 1vw);
+  text-align: center;
+  padding: 3rem 0;
+}
+
+blockquote::before {
+  content: open-quote;
+}
+blockquote::after {
+  content: close-quote;
+}
+blockquote {
+  quotes: "“" "”" "‘" "’";
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
 #hero .flex-container > div:first-child {
   padding-right: 5rem;
 }
