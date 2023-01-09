@@ -14,10 +14,21 @@
   textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
   const br = document.createElement("br");
 
-  if (window.innerWidth < 500) {
-    // break after "of" on small devices
-    textWrapper.insertBefore(br, textWrapper.children[12]);
+  textWrapper.insertBefore(br, textWrapper.children[12]);
+
+  if (window.innerWidth > 500) {
+    // hide break after "of" on big displays
+    br.style.display = "none";
   }
+
+  window.addEventListener("resize", () => {
+    if (window.innerWidth > 500) {
+      // hide break after "of" on big displays
+      br.style.display = "none";
+    } else {
+      br.style.display = "";
+    }
+  });
 
   anime.timeline({loop: true})
     .add({
