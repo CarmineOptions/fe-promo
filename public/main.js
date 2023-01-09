@@ -12,6 +12,12 @@
   // vision animation https://tobiasahlin.com/moving-letters/#2
   const textWrapper = document.querySelector('.ml2');
   textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
+  const br = document.createElement("br");
+
+  if (window.innerWidth < 500) {
+    // break after "of" on small devices
+    textWrapper.insertBefore(br, textWrapper.children[12]);
+  }
 
   anime.timeline({loop: true})
     .add({
