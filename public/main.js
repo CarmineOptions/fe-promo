@@ -13,20 +13,25 @@
   const textWrapper = document.querySelector('.ml2');
   textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
   const br = document.createElement("br");
+  const br2 = document.createElement("br");
 
   textWrapper.insertBefore(br, textWrapper.children[12]);
+  textWrapper.insertBefore(br2, textWrapper.children[19]);
 
   if (window.innerWidth > 500) {
     // hide break after "of" on big displays
     br.style.display = "none";
+    br2.style.display = "none";
   }
 
   window.addEventListener("resize", () => {
     if (window.innerWidth > 500) {
       // hide break after "of" on big displays
       br.style.display = "none";
+      br2.style.display = "none";
     } else {
       br.style.display = "";
+      br2.style.display = "";
     }
   });
 

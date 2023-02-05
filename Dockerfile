@@ -4,7 +4,7 @@ WORKDIR /www/static
 
 # Nginx configuration
 COPY nginx.conf config/
-# JavaScript files to serve
+# Static assets
 COPY public/ ./
 
 # Run the server
