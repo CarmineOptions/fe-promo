@@ -60,12 +60,12 @@ nav {
   margin: 0 0.83rem;
 }
 
-#links > a {
+#links>a {
   margin-left: 3.625rem;
   transition: color 0.2s linear;
 }
 
-#links > a:hover {
+#links>a:hover {
   color: var(--medium-grey);
 }
 
@@ -88,11 +88,13 @@ section {
 blockquote::before {
   content: open-quote;
 }
+
 blockquote::after {
   content: close-quote;
 }
+
 blockquote {
-  quotes: "“" "”" "‘" "’";
+  quotes: "“""”""‘""’";
 }
 
 .ml2 .letter {
@@ -100,8 +102,8 @@ blockquote {
   line-height: 1em;
 }
 
-#hero .flex-container > div:first-child {
-  padding-right: 5rem;
+#hero .flex-container>div:first-child {
+  padding-right: 1.5rem;
 }
 
 #hero .flex-container:last-child {
@@ -111,6 +113,7 @@ blockquote {
 #hero-image {
   width: 100%;
   height: auto;
+  padding-top: 2rem;
 }
 
 #hero h1 {
@@ -119,7 +122,21 @@ blockquote {
 }
 
 #hero p {
-  font-size: 2rem;
+  font-size: 1.7rem;
+}
+
+#start-trading-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+#start-trading-button {
+  border-radius: 30px;
+  border: 3px var(--primary) solid;
+  background: var(--primary);
+  padding: 0.5rem 1.2rem;
+  font-size: 1.5rem;
+  color: var(--bg-primary);
 }
 
 .title-holder {
@@ -144,7 +161,7 @@ blockquote {
   font-size: 2.666rem;
 }
 
-.flex-container > div {
+.flex-container>div {
   box-sizing: border-box;
   width: 50%;
 }
@@ -170,34 +187,38 @@ section#traders .flex-container div.box {
   opacity: 1;
 }
 
-#traders div.box > .box-icon {
+#traders div.box>.box-icon {
   height: 3.375rem;
   margin-top: 2.542rem;
 }
-#traders div.box > .box-icon > img {
+
+#traders div.box>.box-icon>img {
   height: 100%;
 }
-#traders div.box > .box-title {
+
+#traders div.box>.box-title {
   font-size: 1.333rem;
   color: var(--primary);
   margin: 1.333rem 0;
 }
-#traders div.box > .box-text {
+
+#traders div.box>.box-text {
   margin: 0 1.875rem;
 }
 
 section img {
   width: 100%;
 }
+
 #problems-solutions {
   font-size: 1.333rem;
 }
 
-#problems-solutions .flex-container > div:first-child {
+#problems-solutions .flex-container>div:first-child {
   padding-right: 5rem;
 }
 
-#problems-solutions .flex-container > div:last-child {
+#problems-solutions .flex-container>div:last-child {
   padding-left: 5rem;
 }
 
@@ -218,7 +239,7 @@ section img {
   border-radius: 10px;
 }
 
-.scroll-wrapper > .card {
+.scroll-wrapper>.card {
   flex: 0 0 auto;
   width: 33rem;
   margin-right: 2rem;
@@ -235,12 +256,14 @@ section img {
   grid-template-columns: [col1] 30% [col2] auto [colend];
   grid-template-rows: [row1] 45.62% [row2] auto [rowend];
 }
+
 .card-grid .pic {
   grid-column-start: col1;
   grid-column-end: col2;
   grid-row-start: row1;
   grid-row-end: row2;
 }
+
 .card-grid .position {
   grid-column-start: col2;
   grid-column-end: colend;
@@ -252,6 +275,7 @@ section img {
   justify-content: center;
   align-items: center;
 }
+
 .card-grid .desc {
   grid-column-start: col1;
   grid-column-end: colend;
@@ -259,12 +283,14 @@ section img {
   grid-row-end: rowend;
   padding: 0 1.5rem;
 }
+
 .card-grid .pic .img-wrapper {
   box-sizing: border-box;
   aspect-ratio: 1/1;
   height: 100%;
   margin: auto;
 }
+
 .card-grid .pic img {
   box-sizing: border-box;
   width: 100%;
@@ -277,6 +303,7 @@ section img {
   font-weight: 700;
   font-size: 2rem;
 }
+
 .card-grid .position .job {
   font-size: 1.2rem;
 }
@@ -300,20 +327,23 @@ section img {
 .show-answer .answer {
   max-height: 100vh;
 }
-.show-answer .arrow-wrapper > img {
+
+.show-answer .arrow-wrapper>img {
   transform: rotate(-180deg);
   transition: all 0.3s linear;
 }
+
 .answer {
   transition: all 0.3s linear;
   max-height: 0;
   overflow: hidden;
 }
-.answer > p {
+
+.answer>p {
   padding: 0 2.5rem;
 }
 
-.arrow-wrapper > img {
+.arrow-wrapper>img {
   width: 1.918rem;
   transform: rotate(0deg);
   transition: all 0.6s linear;
@@ -336,17 +366,19 @@ footer .footer-logo-wrapper {
   font-size: 1.333rem;
 }
 
-.footer-grid > #left-item {
+.footer-grid>#left-item {
   margin-top: auto;
 }
+
 #socials img {
   height: 1.5rem;
 }
+
 #socials a:not(:first-child) {
   margin-left: 1.79rem;
 }
 
-footer > p {
+footer>p {
   font-size: 1rem;
   text-align: center;
   color: var(--medium-grey);
@@ -386,20 +418,21 @@ footer > p {
     overflow: hidden;
     transition: all 0.3s linear;
   }
+
   #links.show {
     max-height: 50vh;
   }
 
-  #links > a {
+  #links>a {
     margin-left: 0 !important;
     padding: 0.4rem;
   }
 
-  .flex-container > div {
+  .flex-container>div {
     width: 100% !important;
   }
 
-  #hero .flex-container > div:first-child {
+  #hero .flex-container>div:first-child {
     padding-right: 0 !important;
   }
 
@@ -407,49 +440,57 @@ footer > p {
     padding-left: 0 !important;
   }
 
-  #hero .flex-container > div:last-child {
+  #hero .flex-container>div:last-child {
     display: none;
   }
 
   #traders .flex-container {
     flex-flow: column;
   }
+
   #traders .flex-container div.box {
     width: 100% !important;
     margin-bottom: 2.5rem;
   }
 
-  #problems-solutions > div:nth-child(2) > div:nth-child(2) {
+  #problems-solutions>div:nth-child(2)>div:nth-child(2) {
     display: none;
   }
-  #problems-solutions > div:nth-child(2) > div:nth-child(1) {
+
+  #problems-solutions>div:nth-child(2)>div:nth-child(1) {
     padding-right: 0 !important;
   }
-  #problems-solutions > div:nth-child(3) > div:nth-child(1) {
+
+  #problems-solutions>div:nth-child(3)>div:nth-child(1) {
     display: none;
   }
-  #problems-solutions > div:nth-child(3) > div:nth-child(2) {
+
+  #problems-solutions>div:nth-child(3)>div:nth-child(2) {
     padding-left: 0 !important;
   }
 
-  #career > div:nth-child(2) > div:nth-child(2) {
+  #career>div:nth-child(2)>div:nth-child(2) {
     display: none;
   }
 
   .card {
     width: 95% !important;
   }
+
   .card-grid {
     display: flex;
     flex-flow: column;
     align-items: center;
   }
+
   .card-grid .pic {
     width: 60%;
   }
+
   .card-grid .position {
     padding: 1.5rem 0;
   }
+
   .card-grid .desc {
     grid-column-start: col1;
     grid-column-end: colend;
