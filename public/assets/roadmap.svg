@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1601" height="2306" viewBox="0 0 1601 2306">
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1601 2306" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#b636ff"/>
@@ -9,7 +10,7 @@
       <stop offset="1" stop-color="#323232"/>
     </linearGradient>
   </defs>
-  <g id="Group_381" data-name="Group 381" transform="translate(-119 -1940)">
+  <g id="Group_381" data-name="Group 381" transform="matrix(1, 0, 0, 1, -119, -1940)">
     <g id="Ellipse_61" data-name="Ellipse 61" transform="translate(960 1940)" fill="#ffb000" stroke="#707070" stroke-width="1" opacity="0.13">
       <circle cx="170" cy="170" r="170" stroke="none"/>
       <circle cx="170" cy="170" r="169.5" fill="none"/>
@@ -18,27 +19,26 @@
       <circle cx="170" cy="170" r="170" stroke="none"/>
       <circle cx="170" cy="170" r="169.5" fill="none"/>
     </g>
-    <text id="INITIAL_IDEA" data-name="INITIAL IDEA" transform="translate(1250 2052)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">INITIAL IDEA</tspan></text>
-    <text id="PROJECT_STARTED" data-name="PROJECT STARTED" transform="translate(737 2291)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">PROJECT STARTED</tspan></text>
-    <text id="ALPHA_TESTNET_SMART_CONTRACTS" data-name="ALPHA TESTNET SMART CONTRACTS" transform="translate(120 2418)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">ALPHA TESTNET SMART CONTRACTS</tspan></text>
-    <text id="TEAM_OF_5" data-name="TEAM OF 5" transform="translate(233 2799)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">TEAM OF 5</tspan></text>
-    <text id="ALPHA_FE_RUNNING" data-name="ALPHA FE RUNNING" transform="translate(542 2957)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">ALPHA FE RUNNING</tspan></text>
-    <text id="ML_BASED_FEES_FOR_OPTIONS" data-name="ML BASED FEES FOR 
-OPTIONS" transform="translate(276 3604)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-156" y="0">MAINNET LAUNCH</tspan></text>
-    <text id="SIMPLE_LEVERAGE" data-name="SIMPLE LEVERAGE" transform="translate(1130 4123)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-138" y="0">EVM WIDE</tspan></text>
-    <text id="BETA" transform="translate(1444 3064)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">BETA</tspan></text>
-    <text id="OPTIONS_FOR_NFTS_AND_GAME_COMMODITY_PORTFOLIOS" data-name="OPTIONS FOR NFTS AND GAME COMMODITY PORTFOLIOS" transform="translate(1100 3604)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-80" y="0">STARTED AUDIT</tspan></text>
-    <text id="RAISING_CAPITAL" data-name="RAISING CAPITAL" transform="translate(916 2647)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">RAISING CAPITAL</tspan></text>
-    <text id="Q1_2020" data-name="Q1 2020" transform="translate(1279 2106)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Q1 2020</tspan></text>
-    <text id="Apr_2022" data-name="Apr 2022" transform="translate(814 2345)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Apr 2022</tspan></text>
-    <text id="Oct_2022" data-name="Oct 2022" transform="translate(275 2470)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Oct 2022</tspan></text>
-    <text id="Oct_2022-2" data-name="Oct 2022" transform="translate(246 2851)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Oct 2022</tspan></text>
-    <text id="Nov_2022" data-name="Nov 2022" transform="translate(624 3009)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Nov 2022</tspan></text>
-    <text id="Mar_2023" data-name="Mar 2023" transform="translate(202 3658)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Apr 2023</tspan></text>
-    <text id="Mar_2023-2" data-name="Mar 2023" transform="translate(1019 4182)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Mar 2023</tspan></text>
-    <text id="Dec_2022" data-name="Dec 2022" transform="translate(1417 3116)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Dec 2022</tspan></text>
-    <text id="Q1_2023" data-name="Q1 2023" transform="translate(1088 3656)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Q1 2023</tspan></text>
-    <text id="May-Sep_2022" data-name="May-Sep 2022" transform="translate(937 2704)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">May-Sep 2022</tspan></text>
+    <text id="INITIAL_IDEA" data-name="INITIAL IDEA" transform="translate(1250 2052)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700" style="white-space: pre;"><tspan x="0" y="0">INITIAL IDEA</tspan></text>
+    <text id="PROJECT_STARTED" data-name="PROJECT STARTED" transform="translate(737 2291)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700" style="white-space: pre;"><tspan x="0" y="0">PROJECT STARTED</tspan></text>
+    <text id="ALPHA_TESTNET_SMART_CONTRACTS" data-name="ALPHA TESTNET SMART CONTRACTS" transform="translate(246 2418)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700" style="white-space: pre;"><tspan x="0" y="0">TEAM OF 5</tspan></text>
+    <text id="TEAM_OF_5" data-name="TEAM OF 5" transform="translate(123 2799)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700" style="white-space: pre;"><tspan x="0" y="0">ALPHA FE RUNNING</tspan></text>
+    <text id="ALPHA_FE_RUNNING" data-name="ALPHA FE RUNNING" transform="translate(542 2957)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700" style="white-space: pre;"><tspan x="0" y="0">STARTED AUDIT</tspan></text>
+    <text id="ML_BASED_FEES_FOR_OPTIONS" data-name="ML BASED FEES FOR &#10;OPTIONS" transform="translate(326 3604)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700" style="white-space: pre;"><tspan x="-156" y="0">BASIC LEVERAGE</tspan></text>
+    <text id="SIMPLE_LEVERAGE" data-name="SIMPLE LEVERAGE" transform="translate(1000 4123)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700" style="white-space: pre;"><tspan x="-138" y="0">ETHEREUM ECOSYSTEM WIDE</tspan></text>
+    <text id="BETA" transform="translate(1304 3064)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700" style="white-space: pre;"><tspan x="0" y="0">MAINNET LAUNCH</tspan></text>
+    <text id="OPTIONS_FOR_NFTS_AND_GAME_COMMODITY_PORTFOLIOS" data-name="OPTIONS FOR NFTS AND GAME COMMODITY PORTFOLIOS" transform="translate(900 3604)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700" style="white-space: pre;"><tspan x="-80" y="0">HEDGING AGAINST IMPERMANENT LOSS</tspan></text>
+    <text id="RAISING_CAPITAL" data-name="RAISING CAPITAL" transform="translate(716 2647)" fill="#fff" font-size="32" font-family="Poppins-Bold, Poppins" font-weight="700" style="white-space: pre;"><tspan x="0" y="0">ALPHA TESTNET SMART CONTRACTS</tspan></text>
+    <text id="Q1_2020" data-name="Q1 2020" transform="translate(1279 2106)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500" style="white-space: pre;"><tspan x="0" y="0">Q1 2020</tspan></text>
+    <text id="Apr_2022" data-name="Apr 2022" transform="translate(814 2345)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500" style="white-space: pre;"><tspan x="0" y="0">Apr 2022</tspan></text>
+    <text id="Oct_2022" data-name="Oct 2022" transform="translate(275 2470)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500" style="white-space: pre;"><tspan x="0" y="0">Oct 2022</tspan></text>
+    <text id="Oct_2022-2" data-name="Oct 2022" transform="translate(246 2851)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500" style="white-space: pre;"><tspan x="0" y="0">Nov 2022</tspan></text>
+    <text id="Nov_2022" data-name="Nov 2022" transform="translate(624 3009)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500" style="white-space: pre;"><tspan x="0" y="0">Q1 2023</tspan></text>
+    <text id="Mar_2023" data-name="Mar 2023" transform="translate(262 3658)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500" style="white-space: pre;"><tspan x="0" y="0">Q3 2023</tspan></text>
+    <text id="Mar_2023-2" data-name="Mar 2023" transform="translate(1019 4182)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500" style="white-space: pre;"><tspan x="0" y="0">Q4 2023</tspan></text>
+    <text id="Dec_2022" data-name="Dec 2022" transform="translate(1417 3116)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500" style="white-space: pre;"><tspan x="0" y="0">Apr 2023</tspan></text>
+    <text id="Q1_2023" data-name="Q1 2023" transform="translate(1088 3656)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500" style="white-space: pre;"><tspan x="0" y="0">Q3 2023</tspan></text>
+    <text id="May-Sep_2022" data-name="May-Sep 2022" transform="translate(937 2704)" fill="#fff" font-size="32" font-family="Poppins-Medium, Poppins" font-weight="500" style="white-space: pre;"><tspan x="0" y="0">Oct 2022</tspan></text>
     <g id="Group_380" data-name="Group 380">
       <g id="Group_55" data-name="Group 55" transform="translate(399.398 2044.7)">
         <g id="Group_49" data-name="Group 49" transform="translate(0)">
@@ -62,101 +62,101 @@ OPTIONS" transform="translate(276 3604)" fill="#fff" font-size="32" font-family=
       <g id="Group_11" data-name="Group 11" transform="translate(1079.121 1991.26)">
         <g id="Group_9" data-name="Group 9" transform="translate(0 0)">
           <circle id="Ellipse_1" data-name="Ellipse 1" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#fff"/>
-          <text id="_01" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-13" y="0">01</tspan></text>
+          <text id="_01" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-13" y="0">01</tspan></text>
         </g>
         <g id="Group_10" data-name="Group 10" transform="translate(0 0)">
           <circle id="Ellipse_2" data-name="Ellipse 2" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#7399f5" stroke="#fff" stroke-width="3"/>
-          <text id="_1" data-name="1" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-5" y="0">1</tspan></text>
+          <text id="_1" data-name="1" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-5" y="0">1</tspan></text>
         </g>
       </g>
       <g id="Group_379" data-name="Group 379" transform="translate(1042.121 3976.06)">
         <g id="Group_9-2" data-name="Group 9" transform="translate(0 0)">
           <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#fff"/>
-          <text id="_01-2" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-13" y="0">01</tspan></text>
+          <text id="_01-2" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-13" y="0">01</tspan></text>
         </g>
         <g id="Group_10-2" data-name="Group 10" transform="translate(0 0)">
           <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#a85cff" stroke="#fff" stroke-width="3"/>
-          <text id="_10" data-name="10" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-13" y="0">10</tspan></text>
+          <text id="_10" data-name="10" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-13" y="0">10</tspan></text>
         </g>
       </g>
       <g id="Group_371" data-name="Group 371" transform="translate(1079.121 2266.621)">
         <g id="Group_9-3" data-name="Group 9" transform="translate(0 0)">
           <circle id="Ellipse_1-3" data-name="Ellipse 1" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#fff"/>
-          <text id="_01-3" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-13" y="0">01</tspan></text>
+          <text id="_01-3" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-13" y="0">01</tspan></text>
         </g>
         <g id="Group_10-3" data-name="Group 10" transform="translate(0 0)">
           <circle id="Ellipse_2-3" data-name="Ellipse 2" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#f57373" stroke="#fff" stroke-width="3"/>
-          <text id="_2" data-name="2" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-7" y="0">2</tspan></text>
+          <text id="_2" data-name="2" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-7" y="0">2</tspan></text>
         </g>
       </g>
       <g id="Group_375" data-name="Group 375" transform="translate(888.56 2920.621)">
         <g id="Group_9-4" data-name="Group 9" transform="translate(0 0)">
           <circle id="Ellipse_1-4" data-name="Ellipse 1" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#fff"/>
-          <text id="_01-4" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-13" y="0">01</tspan></text>
+          <text id="_01-4" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-13" y="0">01</tspan></text>
         </g>
         <g id="Group_10-4" data-name="Group 10" transform="translate(0 0)">
           <circle id="Ellipse_2-4" data-name="Ellipse 2" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#f57373" stroke="#fff" stroke-width="3"/>
-          <text id="_6" data-name="6" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-7" y="0">6</tspan></text>
+          <text id="_6" data-name="6" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-7" y="0">6</tspan></text>
         </g>
       </g>
       <g id="Group_376" data-name="Group 376" transform="translate(1189 3077.621)">
         <g id="Group_9-5" data-name="Group 9" transform="translate(0 0)">
           <circle id="Ellipse_1-5" data-name="Ellipse 1" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#fff"/>
-          <text id="_01-5" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-13" y="0">01</tspan></text>
+          <text id="_01-5" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-13" y="0">01</tspan></text>
         </g>
         <g id="Group_10-5" data-name="Group 10" transform="translate(0 0)">
           <circle id="Ellipse_2-5" data-name="Ellipse 2" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#f573d7" stroke="#fff" stroke-width="3"/>
-          <text id="_7" data-name="7" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-7" y="0">7</tspan></text>
+          <text id="_7" data-name="7" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-7" y="0">7</tspan></text>
         </g>
       </g>
       <g id="Group_377" data-name="Group 377" transform="translate(1070.121 3415.621)">
         <g id="Group_9-6" data-name="Group 9" transform="translate(0 0)">
           <circle id="Ellipse_1-6" data-name="Ellipse 1" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#fff"/>
-          <text id="_01-6" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-13" y="0">01</tspan></text>
+          <text id="_01-6" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-13" y="0">01</tspan></text>
         </g>
         <g id="Group_10-6" data-name="Group 10" transform="translate(0 0)">
           <circle id="Ellipse_2-6" data-name="Ellipse 2" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#f90" stroke="#fff" stroke-width="3"/>
-          <text id="_8" data-name="8" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-7" y="0">8</tspan></text>
+          <text id="_8" data-name="8" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-7" y="0">8</tspan></text>
         </g>
       </g>
       <g id="Group_378" data-name="Group 378" transform="translate(472.121 3559)">
         <g id="Group_9-7" data-name="Group 9" transform="translate(0 0)">
           <circle id="Ellipse_1-7" data-name="Ellipse 1" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#fff"/>
-          <text id="_01-7" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-13" y="0">01</tspan></text>
+          <text id="_01-7" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-13" y="0">01</tspan></text>
         </g>
         <g id="Group_10-7" data-name="Group 10" transform="translate(0 0)">
           <circle id="Ellipse_2-7" data-name="Ellipse 2" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#2158b5" stroke="#fff" stroke-width="3"/>
-          <text id="_9" data-name="9" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-8" y="0">9</tspan></text>
+          <text id="_9" data-name="9" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-8" y="0">9</tspan></text>
         </g>
       </g>
       <g id="Group_372" data-name="Group 372" transform="translate(910.121 2458.26)">
         <g id="Group_9-8" data-name="Group 9" transform="translate(0 0)">
           <circle id="Ellipse_1-8" data-name="Ellipse 1" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#fff"/>
-          <text id="_01-8" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-13" y="0">01</tspan></text>
+          <text id="_01-8" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-13" y="0">01</tspan></text>
         </g>
         <g id="Group_10-8" data-name="Group 10" transform="translate(0 0)">
           <circle id="Ellipse_2-8" data-name="Ellipse 2" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#f573d7" stroke="#fff" stroke-width="3"/>
-          <text id="_3" data-name="3" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-7" y="0">3</tspan></text>
+          <text id="_3" data-name="3" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-7" y="0">3</tspan></text>
         </g>
       </g>
       <g id="Group_373" data-name="Group 373" transform="translate(484.121 2477.26)">
         <g id="Group_9-9" data-name="Group 9" transform="translate(0 0)">
           <circle id="Ellipse_1-9" data-name="Ellipse 1" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#fff"/>
-          <text id="_01-9" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-13" y="0">01</tspan></text>
+          <text id="_01-9" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-13" y="0">01</tspan></text>
         </g>
         <g id="Group_10-9" data-name="Group 10" transform="translate(0 0)">
           <circle id="Ellipse_2-9" data-name="Ellipse 2" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#f90" stroke="#fff" stroke-width="3"/>
-          <text id="_4" data-name="4" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-7" y="0">4</tspan></text>
+          <text id="_4" data-name="4" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-7" y="0">4</tspan></text>
         </g>
       </g>
       <g id="Group_374" data-name="Group 374" transform="translate(467.121 2715)">
         <g id="Group_9-10" data-name="Group 9" transform="translate(0 0)">
           <circle id="Ellipse_1-10" data-name="Ellipse 1" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#fff"/>
-          <text id="_01-10" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-13" y="0">01</tspan></text>
+          <text id="_01-10" data-name="01" transform="translate(46.879 58.136)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-13" y="0">01</tspan></text>
         </g>
         <g id="Group_10-10" data-name="Group 10" transform="translate(0 0)">
           <circle id="Ellipse_2-10" data-name="Ellipse 2" cx="39.97" cy="39.97" r="39.97" transform="matrix(0.276, -0.961, 0.961, 0.276, 0, 76.841)" fill="#2158b5" stroke="#fff" stroke-width="3"/>
-          <text id="_5" data-name="5" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em"><tspan x="-7" y="0">5</tspan></text>
+          <text id="_5" data-name="5" transform="translate(49.44 62.94)" fill="#fff" font-size="32" font-family="Anton-Regular, Anton" letter-spacing="0.01em" style="white-space: pre;"><tspan x="-7" y="0">5</tspan></text>
         </g>
       </g>
     </g>
